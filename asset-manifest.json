@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.de227085.css",
+    "main.js": "/portfolio/static/js/main.a1b8c2da.js",
+    "static/media/Publications.jpg": "/portfolio/static/media/Publications.fd08700f56e77181a154.jpg",
+    "static/media/Simple_Phonebook.jpg": "/portfolio/static/media/Simple_Phonebook.0277207c7b5486d111d2.jpg",
+    "static/media/Timer-Alarm_clock.jpg": "/portfolio/static/media/Timer-Alarm_clock.af8deea2fd5d9066e10e.jpg",
+    "static/media/Star_Wars_About.jpg": "/portfolio/static/media/Star_Wars_About.997224c81cfd7eacfcd0.jpg",
+    "static/media/Authorization-Registration_form.jpg": "/portfolio/static/media/Authorization-Registration_form.e6916259bf675e7cba59.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.de227085.css.map": "/portfolio/static/css/main.de227085.css.map",
+    "main.a1b8c2da.js.map": "/portfolio/static/js/main.a1b8c2da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de227085.css",
+    "static/js/main.a1b8c2da.js"
+  ]
+}
