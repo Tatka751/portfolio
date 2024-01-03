@@ -1,0 +1,23 @@
+.languages {
+  position: relative;
+  background-color: #21325e;
+  justify-content: center;
+  display: flex;
+  
+}
+
+.buttonLang {
+  margin: 7px;
+  border: none;
+  color: #e9d35b;
+  text-decoration: underline;
+  background-color: #21325e;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.buttonLang:hover {
+  background-color: #ddc53e;
+  color: white;
+}
